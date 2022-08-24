@@ -1,4 +1,3 @@
-Hello world
 git commit - Створення нового проекту
 git branch [newImage] - гілки в Git
 git checkout [name] - перейти на нову гілку
